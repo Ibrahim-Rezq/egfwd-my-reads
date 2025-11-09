@@ -145,7 +145,7 @@ The app uses the **Udacity Books API** with the following methods:
    - Visual feedback for books already on shelves
 
 ---
-
+<!-- 
 ## 🗺️ Roadmap / To-Do
 
 * [ ] Add user authentication for personalized libraries
@@ -156,7 +156,7 @@ The app uses the **Udacity Books API** with the following methods:
 * [ ] Implement dark mode toggle
 * [ ] Add loading states and better error handling
 
----
+--- -->
 
 ## 🧠 Key Learnings
 
